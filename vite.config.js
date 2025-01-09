@@ -6,7 +6,6 @@ export default defineConfig({
   base: '/vue-site/', // Replace with your GitHub repository name
   plugins: [
     vue(),
-    vueJsx(),
   ],
   resolve: {
     alias: {
